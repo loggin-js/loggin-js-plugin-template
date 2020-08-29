@@ -1,8 +1,8 @@
-# LogginJS Plugin Template
+# LogginJS Plugin Template
 
 Template for creating new LogginJS plugins.
 
-## Usage
+## Usage
 
 Just click the **"Use this template"** button to generate a new project from this template.
 
