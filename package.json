@@ -1,0 +1,21 @@
+{
+  "name": "loggin-js-plugin-template",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {},
+  "author": {
+    "name": "nombrekeff",
+    "email": "manoloedge96@gmail.com",
+    "url": "https://github.com/nombrekeff"
+  },
+  "bugs": {
+    "url": "https://github.com/loggin-js/loggin-js-plugin-template/issues/new",
+    "email": "manoloedge96@gmail.com"
+  },
+  "homepage": "https://github.com/loggin-js/loggin-js-plugin-template",
+  "license": "MIT",
+  "dependencies": {
+    "loggin-js": "^1.4.1"
+  }
+}
